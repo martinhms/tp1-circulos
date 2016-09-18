@@ -9,7 +9,9 @@ public class CirculoTest {
 	
 	@Test
 	public void crearUnCirculoConRadio2() {
-		fail("Not yet implemented");
+Circulo circulo = new Circulo(2.0);
+Double valorRadioEsperado=2.0;
+		Double 
 	}
 	
 	@Test
